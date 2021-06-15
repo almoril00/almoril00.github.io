@@ -459,7 +459,7 @@ sup {
 
 #about {
     /* Ocultar section */
-    display: none;
+    /* display: none;  */
     font-size: 120%;
     width: 90%;
     margin: 0 auto;
